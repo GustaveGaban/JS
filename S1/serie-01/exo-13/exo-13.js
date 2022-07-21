@@ -2,7 +2,7 @@
 let list="";
 
 for (let n = 1; n < 11; n++) {
-    list = list+n+"<li></li>";
+    list = list+"<li>"+n+"</li>";
     
 }
 console.log(list);

@@ -11,5 +11,5 @@ else{
     result="x est égal à y.";
 }
 
-let messagep1=document.getElementById("p1");
-messagep1.innerHTML=result;
+document.getElementById("p1").innerHTML=result;
+
