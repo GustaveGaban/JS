@@ -1,5 +1,5 @@
 let num=-1;
-let result=""
+let result="";
 
 do {
     num = parseInt (num)+1 ;
